@@ -1,0 +1,21 @@
+{
+  "name": "csptry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianfrank/csptry.git"
+  },
+  "author": "JF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianfrank/csptry/issues"
+  },
+  "homepage": "https://github.com/julianfrank/csptry#readme"
+}
